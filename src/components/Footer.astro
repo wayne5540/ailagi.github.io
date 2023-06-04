@@ -1,9 +1,10 @@
 ---
+import { SITE_NAME } from '../consts';
 const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} YOUR NAME HERE. All rights reserved.
+	&copy; {today.getFullYear()} {SITE_NAME}. All rights reserved.
 </footer>
 <style>
 	footer {
