@@ -3,5 +3,5 @@
 
 export const SITE_TITLE = '';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
-export const SITE_NAME = 'Frichuken.com'
-export const SITE_DOMAIN = 'frichuken.com'
+export const SITE_NAME = 'ailagi'
+export const SITE_DOMAIN = 'ailagi.com'
