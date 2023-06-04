@@ -2,6 +2,6 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = '';
-export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const SITE_DESCRIPTION = 'Welcome';
 export const SITE_NAME = 'ailagi'
 export const SITE_DOMAIN = 'ailagi.com'
